@@ -1,9 +1,9 @@
 
 
-const char* ssid = "Atharva";
-const char* password = "Atharva3102";
-String token = "1130832583:AAF4TyRb_kmnB-VYdx9R62ZmSWc1DHinD8M";   // Create your bot and get the token -> https://telegram.me/fatherbot
-String chat_id = "1210558309";   // Get chat_id -> https://telegram.me/chatid_echo_bot
+const char* ssid = "ENTER THE NAME OF YOUR HOTSPOT HERE";
+const char* password = "ENTER THE PASSWORD OF YOUR HOTSPOT HERE";
+String token = "ENTER THE TELEGRAM TOKEN HERE WHICH YOU GOT AFTER ENROLLING";   // Create your bot and get the token -> https://telegram.me/fatherbot
+String chat_id = "ENTER CHAT ID HERE WHICH YOU GOT FROM TELEGRAM";   // Get chat_id -> https://telegram.me/chatid_echo_bot
 int trigPin = 2;   //Trig
 int echoPin = 13 ;   //Echo
 int distance_limit = 15; //inch
